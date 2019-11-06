@@ -1,4 +1,4 @@
-input{
+#hexBox, #decBox, #octBox, #binBox, #userIn{
 	margin: auto;
 	width: 50%;
 	margin-left: 100px;
